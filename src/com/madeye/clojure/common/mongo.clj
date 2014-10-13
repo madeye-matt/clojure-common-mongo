@@ -3,6 +3,7 @@
   (:require
     [monger.core :as mg]
     [monger.collection :as mc]
+    [com.madeye.clojure.common.config :as cfg]
   )
   (:import [org.bson.types ObjectId])
 )
