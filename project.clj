@@ -1,4 +1,4 @@
-(defproject com.madeye.clojure.common/mongo "0.1.1"
+(defproject com.madeye.clojure.common/mongo "0.1.2"
   :description "Common mongodb utility code to be shared between clojure projects"
   :url "https://github.com/madeye-matt/clojure-common-mongo"
   :license {:name "Eclipse Public License"
