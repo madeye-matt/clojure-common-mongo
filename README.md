@@ -6,18 +6,18 @@ This project contains function definitions that are (hopefully) useful across al
 
 leiningen
 
-    [com.madeye.clojure.common/mongo "0.1.1"]
+    [com.madeye.clojure.common/mongo "0.1.2"]
 
 gradle
 
-    compile "com.madeye.clojure.common:mongo:0.1.1"
+    compile "com.madeye.clojure.common:mongo:0.1.2"
 
 maven
 
     <dependency>
       <groupId>com.madeye.clojure.common</groupId>
       <artifactId>mongo</artifactId>
-      <version>0.1.1</version>
+      <version>0.1.2</version>
     </dependency>
 
 ### Bugs
