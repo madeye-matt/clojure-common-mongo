@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/madeye-matt/clojure-common-mongo.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/madeye-matt/clojure-common-mongo.git</developerConnection>
-    <tag>a0e717cebccf5c04332655ae0086bae819a62421</tag>
+    <tag>96f99d42f101c956e0ceed5152b66a2f1b9a878d</tag>
     <url>https://github.com/madeye-matt/clojure-common-mongo</url>
   </scm>
   <build>

@@ -37,6 +37,10 @@
   (get-id [obj] obj)
   (get-str [obj] obj)
 )
+(extend-protocol GetId nil
+  (get-id [obj] nil)
+  (get-str [obj] nil)
+)
 
 (defn objectid?
   [id]
